@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: HelloWorld Debug",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "/Users/grzegorz.celek/apps/HelloWorld/bin/Debug/net6.0/HelloWorld.dll",
+            "args": [],
+            "cwd": "/Users/grzegorz.celek/apps/HelloWorld",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        }
+    ]
+}
